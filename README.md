@@ -1,2 +1,4 @@
-# Xdi8Fonts
-放置字体，用于在线调用。
+# fonts-repo
+Webfont deploy repo.
+
+See meta info of the font files for licenses.
